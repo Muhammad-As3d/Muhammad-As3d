@@ -54,9 +54,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=meshmuhammadasaadg&theme=github-dark-blue&hide_border=true&card_width=795&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=meshmuhammadasaadg&theme=github-dark-blue&hide_border=true&card_width=795" alt="GitHub Streak" /></a>
 </p>
-
+<!-- &exclude_days=Sun%2CSat -->
  
  ## 🐍 Snak
 
