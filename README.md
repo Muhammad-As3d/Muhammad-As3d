@@ -17,7 +17,6 @@
 📚 Currently learning advanced ASP.NET Core & Web API  
 🎯 Goal: Become Professional Backend Engineer  
 
----
 
 # 💻 Technologies and Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
