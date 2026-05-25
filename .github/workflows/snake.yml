@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: meshmuhammadasaadg
+          github_user_name: muhammad-as3d
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
