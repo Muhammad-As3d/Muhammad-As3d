@@ -52,20 +52,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=meshmuhammadasaadg&theme=github-dark-blue&hide_border=true&card_width=795" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammad-as3d&theme=github-dark-blue&hide_border=true&card_width=795" alt="GitHub Streak" /></a>
 </p>
  
  ## 🐍 Snak
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/meshmuhammadasaadg/meshmuhammadasaadg/output/github-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/muhammad-as3d/muhammad-as3d/output/github-snake-dark.svg" width="100%" />
 </div>
 
 
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/meshmuhammadasaadg">
+<a href="https://github.com/muhammad-as3d">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.facebook.com/muhammad.asaad.852373">
