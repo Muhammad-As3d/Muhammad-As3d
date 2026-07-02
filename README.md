@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Graduate  
+🎓 Computer Science Graduated  
 💻 Passionate about Backend Development  
 🏗️ Interested in Clean Architecture & DDD & Microservice & Design Patterns  
 🔧 Strong knowledge of C#, .NET, SQL, OOP, EF Core    
@@ -75,4 +75,3 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
-
