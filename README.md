@@ -48,6 +48,24 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
+## 📄 Resume
+
+<div align="center">
+
+<a href="https://drive.google.com/drive/u/2/folders/1h336o_sZYYtlyer7R0aXJLTmBeJPGfRR">
+  <img src="https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/drive/u/2/folders/1h336o_sZYYtlyer7R0aXJLTmBeJPGfRR">
+  <img src="https://img.shields.io/badge/Download%20Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
+
+<p align="center">
+  📑 <b>Latest Resume</b> • Updated regularly with my newest projects and experience.
+</p>
+
 
 ## 📊 GitHub Stats
 
